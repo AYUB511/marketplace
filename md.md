@@ -1,0 +1,1 @@
+this nimaga teng deyilganda ozidan avvalgi kelayotga 1 parentga teng xisoblanadi.agar errow functionda bolsa windowga murojat qiladi
